@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0006: Metadata file 'C:\Users\oltea\OneDrive\Desktop\New folder\Medii de prog si dez\Chiselenco_Ruxandra_Lab6\Chiselenco_Ruxandra_Lab6\bin\Debug\netstandard2.0\ref\Chiselenco_Ruxandra_Lab6.dll' could not be found
+dotnet_diagnostic.CS0006.severity = none
